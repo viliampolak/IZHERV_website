@@ -1,1 +1,1 @@
-git@github.com:viliampolak/IZHERV_exe4.git
+https://github.com/viliampolak/IZHERV_exe4.git
